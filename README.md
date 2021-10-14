@@ -4,15 +4,18 @@ Creación microservice shipping que contiene toda la lógica para escuchar y pub
 
 # Modificación servicio orden
 Para la inclusión de un nuevo binding hacia shipping -event
+
 ![alt text](https://github.com/agsking1993/shipping/blob/master/order.jpg)
 
 
 # Request
 Se realiza la inclusión del campo postalCode para poder verificar si el shipping se puede realizar o no.
+
 ![alt text](https://github.com/agsking1993/shipping/blob/master/request.jpg)
 
 # BD
 Creación de la tabla shipping_info que contiene la información de los envíos disponibles.
+
 ![alt text](https://github.com/agsking1993/shipping/blob/master/bd.jpg)
 
 # Orden final actualizada 
