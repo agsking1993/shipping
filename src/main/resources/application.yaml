@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    stream:
+      function:
+        definition : shippingProcessor
+      bindings:
+        shippingProcessor-in-0 :
+          destination: order-event
+        shippingProcessor-out-0:
+          destination: shipping-event
+
+
+server:
+  port: 8083
