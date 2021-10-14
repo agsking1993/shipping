@@ -19,4 +19,4 @@ Creación de la tabla shipping_info que contiene la información de los envíos 
 
 Se evidencia lo distintos escenarios de pruebas para la ejecución de los microservicios
 
-![alt text](https://github.com/agsking1993/shipping/blob/master/final.jpg)
+![alt text](https://github.com/agsking1993/shipping/blob/master/final.JPG)
